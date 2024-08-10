@@ -6,6 +6,6 @@ int main()
 {
     int x,y;
     cin>>x>>y;
-    int sum=(x+y);
-    cout<< sum;
+    int multi=(x*y);
+    cout<< multi;
 }
