@@ -6,4 +6,5 @@ int main()
 {
     cout << "Hello world!" << endl;
    cout << "cpp!" << endl;
+   cout<<"hello salma!"<<endl;
 }
