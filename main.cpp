@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-   cout << "cpp!" << endl;
-   cout<<"hello salma!"<<endl;
+    int x,y;
+    cin>>x>>y;
+    int sum=(x+y);
+    cout<< sum;
 }
